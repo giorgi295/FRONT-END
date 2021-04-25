@@ -1,0 +1,69 @@
+.container-1{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border: none;
+    border-bottom: solid 1px;
+    width: 50%;
+    min-height: 310px;
+}
+
+
+.div-1{
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+    text-align: center;
+    background-color: green;
+    height: 40px;
+    line-height: 35px;
+}
+
+.container-2{
+    display: flex;
+}
+
+.divs{
+    text-align: center;
+    width: 50%;
+    height: 40px;
+    background-color: green;
+    line-height: 35px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+.div-3{
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-right: 10px;
+    text-align: center;
+    width: 50%;
+    height: 40px;
+    background-color: green;
+    line-height: 35px;
+
+}
+
+.container-3{
+    display: flex;
+    margin-right: 10px;
+}
+
+
+.container-4{
+    display: flex;
+    margin-right: 10px;
+}
+
+.container-5{
+    display: flex;
+}
+
+
+.container-6{
+    display: flex;
+}
+
+
